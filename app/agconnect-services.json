@@ -1,0 +1,12 @@
+{
+	"client":{
+		"cp_id":"260086000046662373",
+		"product_id":"9105385871708539116",
+		"client_id":"315045427227395200",
+		"client_secret":"0BFB6D6CF34DB2BCCC76B0C005066C317F8ECA0E34351DB52DB7965D4C3D91DE",
+		"app_id":"101840725",
+		"package_name":"com.huawei.nearby.game.snake",
+		"api_key":"CV6O2otELGsHi5yUBvS4hDfN3x9vvfWXySnbCUcCFcGLFLqHzibCcQtCqnLLtMG5e1x1I7Yc4q+2DNFd1Oo87G0AYirn"
+	},
+	"configuration_version":"1.0"
+}

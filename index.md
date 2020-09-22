@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+## Statement About Nearby Snake and Privacy
 
 You can use the [editor on GitHub](https://github.com/HMSNearbyServiceDemo/huawei-nearby-GameSnake-demo/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### 1. What data do we collect about you?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+As part of the Nearby Snake we will collect and use your personal data only for the purposes stated in this notice.  Personal data means any information that enables we to identify you as a user.
+We collect and process the following data:
+-	Network information: GPS/IP address information
 
-```markdown
-Syntax highlighted code block
+### 2. How do we use your data?
 
-# Header 1
-## Header 2
-### Header 3
+We uses your personal data (GPS/IP address) in order to provide you the service which discover and connect to nearby players.
 
-- Bulleted
-- List
+### 3. How long do we store your data?
 
-1. Numbered
-2. List
+We retain your personal data for no longer than is necessary for the purposes defined in this notice. After the retention period expires, we will delete or anonymize your personal data, unless otherwise required by laws and regulations.
 
-**Bold** and _Italic_ and `Code` text
+### 4. Do we share your data?
+No.
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/HMSNearbyServiceDemo/huawei-nearby-GameSnake-demo/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### 5. How to contact us?
+You can contact us at nearbyservice@huawei.com

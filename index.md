@@ -18,4 +18,4 @@ We retain your personal data for no longer than is necessary for the purposes de
 No.
 
 ### 5. How to contact us?
-You can contact us at nearbyservice@huawei.com
+You can contact us at east__000@163.com

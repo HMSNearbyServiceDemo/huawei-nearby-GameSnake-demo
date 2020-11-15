@@ -1,9 +1,5 @@
 ## Statement About Nearby Snake and Privacy
 
-You can use the [editor on GitHub](https://github.com/HMSNearbyServiceDemo/huawei-nearby-GameSnake-demo/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
 ### 1. What data do we collect about you?
 
 As part of the Nearby Snake we will collect and use your personal data only for the purposes stated in this notice.  Personal data means any information that enables we to identify you as a user.

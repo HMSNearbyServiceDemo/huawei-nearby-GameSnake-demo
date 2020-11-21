@@ -1,8 +1,7 @@
-## Statement About Nearby Snake and Privacy
+## Statement About Privacy Plolicy
 
 ### 1. What data do we collect about you?
-
-As part of the Nearby Snake we will collect and use your personal data only for the purposes stated in this notice.  Personal data means any information that enables we to identify you as a user.
+We will collect and use your personal data only for the purposes stated in this notice.  Personal data means any information that enables we to identify you as a user.
 We collect and process the following data:
 -	Network information: GPS/IP address information
 
